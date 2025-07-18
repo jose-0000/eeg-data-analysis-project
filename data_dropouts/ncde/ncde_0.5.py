@@ -3,7 +3,7 @@ import scipy.io
 import numpy as np
 import matplotlib.pyplot as plt
 import random
-import torch
+import torch 
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import Dataset, DataLoader, random_split
